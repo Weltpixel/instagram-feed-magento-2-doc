@@ -4,7 +4,7 @@
  <tr>
   <td width="30%" valign="center" style="
     border: none;
-"><br><a href="https://www.weltpixel.com/magento-instagram-feed-widget.html"><img src="https://www.weltpixel.com/media/catalog/product/cache/20db9bcc423fded64d342cb0f2f8b03f/0/6/06._instagram_widget_1_1.png" alt="Instagram Feed Widget"></a>
+"><br><a href="https://www.weltpixel.com/magento-instagram-feed-widget.html"><img src="https://www.weltpixel.com/media/catalog/product/0/6/06._instagram_widget_1_1.png" alt="Instagram Feed Widget"></a>
 <br><a href="https://www.weltpixel.com"><img src="https://www.weltpixel.com/media/wysiwyg/weltpixel_1000x1000.png" alt="WeltPixel Logo"></a></td>
   <td style="border:none;"><br>
 <h2>About the Instagram Feed Widget for Magento 2.</h2>
