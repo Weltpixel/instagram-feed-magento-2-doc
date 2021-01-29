@@ -23,7 +23,7 @@
                         <p>
                             This widget comes with an extended list of options compared to other widgets: you can select the background color of widget container in order to fit your page from the Magento admin. You can also select the number of pictures you want to display per row and the maximum number of displayed pictures. Pictures can be sorted and ordered by a lot of criteria like most recent, most liked, most commented and so on. Picture resolution is available in 3 formats: Thumbnail, Low resolution and Standard Resolution. Pictures can be displayed by user. The multitude of options will allow you to customise the widget and its content to fit your business needs.
                         </p>
-                        <h3>Download Here: <a href="https://www.weltpixel.com/magento-instagram-feed-widget.html">Magento 2 Instagram Feed Widget by WeltPixel,</a></h3>
+                        <h3>Download Here: <a href="https://www.weltpixel.com/magento-instagram-feed-widget.html">Magento 2 Instagram Feed Widget by WeltPixel.</a></h3>
                         <h3>Included in the <a href="https://www.weltpixel.com/magento-2-theme-pearl">Pearl Theme for Magento 2.</a></h3>
 </div></td>
  </tr>
