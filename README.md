@@ -31,6 +31,9 @@
 <br/>
 <h2>Features of the Extension.</h2>
                         <ul>
+ <li>
+  <strong>Insanely 1 min easy setup compared with other Instagram/Facebook integrations. Only add your instagram User, no other authorization hassle.</strong>
+  </li>
                             <li>
                                 Display Instagram feed - Showcase a feed of images from your Instagram user account to place your brand's image in the spotlight.
                             </li>
@@ -40,6 +43,9 @@
                             <li>
                                 Select number of images - Possibility to select the maximum number of the images you want to add.
                             </li>
+ <li>
+  <strong>NEW:</strong> Display Image Caption on hover - You can now choose to display the image caption upon hovering on images from the Instagram Feed.
+  </li>
                             <li>
                                 Add title - Option to add a Title.
                             </li>
